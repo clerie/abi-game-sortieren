@@ -1,0 +1,19 @@
+{
+  "name": "abi-game-sortieren",
+  "version": "0.0.1",
+  "description": "Sortieren nach Schlag den Raab für unser Abi Programm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clerie/abi-game-sortieren.git"
+  },
+  "author": "Clemens Riese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clerie/abi-game-sortieren/issues"
+  },
+  "homepage": "https://github.com/clerie/abi-game-sortieren#readme"
+}
